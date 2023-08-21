@@ -35,7 +35,7 @@ import io.flutter.plugin.common.PluginRegistry.Registrar;
  */
 public class FlutterXUpdatePlugin implements FlutterPlugin, ActivityAware, MethodCallHandler {
 
-    private static final String PLUGIN_NAME = "com.xuexiang/flutter_xupdate";
+    private static final String PLUGIN_NAME = "com.smartmicky/flutter_xupdate";
 
     private MethodChannel mMethodChannel;
     private Application mApplication;
